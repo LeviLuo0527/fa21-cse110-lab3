@@ -1,1 +1,1 @@
-https://github.com/LeviLuo0527/week2.github.io
+https://leviluo0527.github.io/week2.github.io/
